@@ -18,7 +18,7 @@ docker-network-project/
 ```
 # run project
 ```
-https://github.com/atulkamble/docker-network-project.git
+https://github.com/NakulsharmaGH/docker-network-project.git
 cd docker-network-project
 docker compose up --build -d
 
